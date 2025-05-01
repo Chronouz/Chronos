@@ -1,10 +1,12 @@
-# Hi there! 👋 I'm [Nama Kamu]
+# Hi there! 👋 I'm [Chronos]
 
 ## 🚀 About Me
+I’m a computer science student with a passion for building things using code.  
+I love exploring new technologies, solving problems, and learning how software works under the hood.
 - 🔭 I’m currently working on something awesome!
 - 🌱 I’m currently learning Fullstack Development
 - 💬 Ask me about anything related to Web Development
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [be.a.star615@gmail.com](mailto:be.a.star615@gmail.com)
 
 ---
 
@@ -13,6 +15,17 @@
 - [x] Build a personal portfolio
 - [ ] Contribute to Open Source
 - [ ] Launch my first project
+
+---
+
+## 🎲 Fun Facts
+- 🔥 I love debugging more than coding
+- 📚 I read about system design for fun
+- 🧩 I'm addicted to solving logic puzzles
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat)
 
 ---
 
@@ -25,15 +38,19 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring-boot&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
 
-> *refresh halaman untuk melihat tag berbeda* (opsional jika pakai generator)
+> I'll add more tag soon 🥳
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chronouz&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronouz&layout=compact&theme=radical)
 
 ---
