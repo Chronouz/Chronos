@@ -25,7 +25,7 @@ I love exploring new technologies, solving problems, and learning how software w
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=billgates&color=blue&style=flat)
 
 ---
 
