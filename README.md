@@ -21,11 +21,11 @@ I love exploring new technologies, solving problems, and learning how software w
 ## 🎲 Fun Facts
 - 🔥 I love debugging more than coding
 - 📚 I read about system design for fun
-- 🧩 I'm addicted to solving logic puzzles
+- 🧩 I'm addicted to Valorant and Coding 🔥🔥
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=mhasaero&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=Chronouz&color=blue&style=flat)
 
 ---
 
@@ -49,7 +49,7 @@ I love exploring new technologies, solving problems, and learning how software w
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasaero&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chronouz&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronouz&layout=compact&theme=radical)
 
