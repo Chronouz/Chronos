@@ -49,7 +49,7 @@ I love exploring new technologies, solving problems, and learning how software w
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chronouz&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasaero&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronouz&layout=compact&theme=radical)
 
